@@ -72,6 +72,7 @@ Clone this repository to get started with the project, make sure to configure li
 
 - After pushing the changes on github, merge your pull request and let github action process changes and fix errors, if any.
   - For stylelint errors run:<code>sudo npx stylelint "\*_/_.{css,scss}" --fix</code> for automatic fix.
+  - For ESLINT errors run:<code>npx eslint "**/*.{js,jsx}" --fix</code> for automatic fix.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
