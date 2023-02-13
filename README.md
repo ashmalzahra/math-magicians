@@ -6,11 +6,13 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+  - [🚀 Live Demo ](#-live-demo-)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Run tests](#run-tests)
 - [👥 Authors](#authors)
+- [🔭 Future Features ](#-future-features-)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [📝 License](#license)
@@ -86,6 +88,17 @@ Clone this repository to get started with the project, make sure to configure li
 - GitHub: [@githubhandle](https://github.com/ashmalzahra)
 - Twitter: [@twitterhandle](https://twitter.com/AshmalZahraa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ashmal-zahra-35bb09242/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Project 2: Components**
+- [ ] **Project 3: Events**
+- [ ] **Project 4: Refactor with hooks**
+- [ ] **Project 5: Full website**
+- [ ] **Project 6: Tests with pair programming**
+- [ ] **Deployment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
