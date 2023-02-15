@@ -1,10 +1,13 @@
-
 import './App.css';
 
-// function App() {
-//   return (
-    
-//   );
-// }
+import Calculator from './components/calculator';
 
-// export default App;
+function App() {
+  return (
+    <section className="App">
+      <Calculator />
+    </section>
+  );
+}
+
+export default App;
