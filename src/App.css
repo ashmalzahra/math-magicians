@@ -1,6 +1,6 @@
-#container{
+#container {
   border: 1px solid darkolivegreen;
-    box-shadow: 2px 3px dimgrey;
+  box-shadow: 2px 3px dimgrey;
 }
 
 .App {
@@ -14,21 +14,25 @@
 * {
   font-size: medium;
 }
-table{
+
+table {
   border-spacing: 0;
   width: 100%;
 }
-td{
+
+td {
   padding: 0;
 }
-th{
+
+th {
   font-size: x-large;
 }
 
-.row{
+.row {
   display: flex;
 }
-button{
+
+button {
   box-sizing: border-box;
   display: flex;
   width: 80px;
@@ -38,7 +42,7 @@ button{
   border: 1px solid lightgrey;
 }
 
-.display-values{
+.display-values {
   display: flex;
   justify-content: flex-end;
   align-items: center;
@@ -48,14 +52,10 @@ button{
   color: white;
 }
 
-.orange{
+.orange {
   background: #ff8400;
 }
 
-#last{
+#last {
   width: 160px;
 }
-
-
-
-

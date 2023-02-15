@@ -93,7 +93,6 @@ Clone this repository to get started with the project, make sure to configure li
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Project 2: Components**
 - [ ] **Project 3: Events**
 - [ ] **Project 4: Refactor with hooks**
 - [ ] **Project 5: Full website**
