@@ -1,8 +1,25 @@
 const Home = () => (
   <div>
-    <h1>Math Magicians</h1>
     <h3>Welcome to our page</h3>
-    <p />
+    <p>
+      Mathematics is an area of knowledge that includes the topics of numbers, formulas and related
+      structures, shapes and the spaces in which they are contained, and quantities and their changes.
+      These topics are represented in modern mathematics with the major subdisciplines of number theory,
+      algebra, geometry, and analysis, respectively. There is no general consensus among mathematicians
+      about a common definition for their academic discipline.
+    </p>
+    <p>
+      Historically, the concept of a proof and its associated mathematical rigour first appeared in Greek
+      mathematics, most notably in Euclid&apos;s Elements. Since its beginning, mathematics was essentially
+      divided into geometry and arithmetic the manipulation of natural numbers and fractions, until the
+      16th and 17th centuries, when algebra and infinitesimal calculus were introduced as new areas.
+      Since then, the interaction between mathematical innovations and scientific discoveries has led to
+      a rapid lockstep increase in the development of both. At the end of the 19th century, the
+      foundational crisis of mathematics led to the systematization of the axiomatic method,
+      which heralded a dramatic increase in the number of mathematical areas and their fields
+      of application. The contemporary Mathematics Subject Classification lists more than 60
+      first-level areas of mathematics.
+    </p>
   </div>
 );
 

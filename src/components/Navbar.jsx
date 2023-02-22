@@ -9,6 +9,7 @@ const links = [
 const Navbar = () => (
   <nav>
     <ul>
+      <li><h1>Math Magicians</h1></li>
       {links.map((link) => (
         <li key={link.text}>
           <NavLink to={link.path}>{link.text}</NavLink>

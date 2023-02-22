@@ -4,7 +4,7 @@ import Home from './routes/Home';
 import Calc from './routes/Calculator';
 import Quote from './routes/Quote';
 import NotMatch from './routes/NotMatch';
-import Layout from './routes/Layout';
+import Layout from './components/Layout';
 
 function App() {
   return (
