@@ -1,6 +1,8 @@
+import './styles/Home.css';
+
 const Home = () => (
   <div>
-    <h3>Welcome to our page</h3>
+    <h3 className="home-text">Welcome to our page!</h3>
     <p>
       Mathematics is an area of knowledge that includes the topics of numbers, formulas and related
       structures, shapes and the spaces in which they are contained, and quantities and their changes.
