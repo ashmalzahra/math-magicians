@@ -1,12 +1,10 @@
+import { Routes, Route } from 'react-router-dom';
 import './App.css';
 
-import Calculator from './components/calculator';
 
 function App() {
   return (
-    <section className="App">
-      <Calculator />
-    </section>
+    <></>
   );
 }
 
