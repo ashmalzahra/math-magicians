@@ -1,11 +1,9 @@
-const Home = () => {
-    return(
-        <div>
-        <h1>Math MAgicians</h1>
-        <h3>Welcome to our page</h3>
-        <p></p>
-        </div>
-    )
-}
+const Home = () => (
+  <div>
+    <h1>Math Magicians</h1>
+    <h3>Welcome to our page</h3>
+    <p />
+  </div>
+);
 
-export default Home
+export default Home;
