@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking page deployment Quote component matches snapshot 1`] = `
+<div
+  className="contain-quote"
+>
+  <p
+    style={
+      Object {
+        "fontSize": "xxx-large",
+        "margin": "0",
+      }
+    }
+  >
+    Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding. -William Paul Thurston
+  </p>
+</div>
+`;
