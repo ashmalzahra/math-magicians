@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+* {
+  font-family: 'Itim', cursive;
+}
+
 #container {
   border: 1px solid darkolivegreen;
   box-shadow: 2px 3px dimgrey;
@@ -5,14 +11,10 @@
 
 .App {
   background: #fff;
-  height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: center;
-}
-
-* {
-  font-size: medium;
+  justify-content: end;
+  margin-right: 15%;
 }
 
 table {
@@ -40,6 +42,7 @@ button {
   justify-content: center;
   align-items: center;
   border: 1px solid lightgrey;
+  font-size: medium;
 }
 
 .display-values {

@@ -93,7 +93,6 @@ Clone this repository to get started with the project, make sure to configure li
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Project 5: Full website**
 - [ ] **Project 6: Tests with pair programming**
 - [ ] **Deployment**
 
