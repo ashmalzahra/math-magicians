@@ -1,0 +1,102 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checking page deployment Layout component matches snapshot 1`] = `
+<div>
+  <nav>
+    <ul
+      style={
+        Object {
+          "display": "flex",
+          "justifyContent": "space-between",
+          "lineHeight": "50px",
+          "listStyle": "none",
+          "paddingBottom": "2%",
+        }
+      }
+    >
+      <li
+        style={
+          Object {
+            "fontSize": "xxx-large",
+          }
+        }
+      >
+        Math Magicians
+      </li>
+      <div
+        style={
+          Object {
+            "display": "flex",
+            "paddingRight": "10%",
+          }
+        }
+      >
+        <li
+          style={
+            Object {
+              "fontSize": "x-large",
+              "paddingRight": "8%",
+            }
+          }
+        >
+          <a
+            aria-current="page"
+            className="active"
+            href="/"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "#007cff",
+              }
+            }
+          >
+            Home
+          </a>
+        </li>
+        <li
+          style={
+            Object {
+              "fontSize": "x-large",
+              "paddingRight": "8%",
+            }
+          }
+        >
+          <a
+            className=""
+            href="/calculator"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "#9e9e9e",
+              }
+            }
+          >
+            Calculator
+          </a>
+        </li>
+        <li
+          style={
+            Object {
+              "fontSize": "x-large",
+              "paddingRight": "8%",
+            }
+          }
+        >
+          <a
+            className=""
+            href="/quote"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "#9e9e9e",
+              }
+            }
+          >
+            Quote
+          </a>
+        </li>
+      </div>
+    </ul>
+  </nav>
+</div>
+`;
