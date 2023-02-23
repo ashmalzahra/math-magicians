@@ -10,9 +10,11 @@ describe('Checking page deployment', () => {
     expect(tree).toMatchSnapshot();
   });
   test('renders Button component', () => {
-    render(<Button />);
+    const onClick = () => {};
 
-    expect(screen.getByRole('heading')).toBeInTheDocument();
-    expect(screen.getByText(/Welcome to our page!/)).toBeInTheDocument();
+    render(<Button name="AC" className="grey" onClick={onClick} />);
+
+    expect(screen.getByRole('button')).toBeInTheDocument();
+    expect(screen.getByText(/AC/)).toBeInTheDocument();
   });
 });
