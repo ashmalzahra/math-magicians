@@ -93,7 +93,6 @@ Clone this repository to get started with the project, make sure to configure li
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Project 6: Tests with pair programming**
 - [ ] **Deployment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

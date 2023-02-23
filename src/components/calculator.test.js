@@ -11,7 +11,6 @@ describe('Checking page deployment', () => {
   });
   test('renders Calculator component', () => {
     render(<Calculator />);
-    
 
     expect(screen.getByRole('table')).toBeInTheDocument();
     expect(screen.getByText(/AC/)).toBeInTheDocument();
