@@ -1,0 +1,7 @@
+.contain-quote {
+  display: flex;
+  justify-content: center;
+  margin: 0 7%;
+  top: 50%;
+  position: absolute;
+}
